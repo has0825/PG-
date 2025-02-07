@@ -11,7 +11,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
     // キー入力
     char keys[256] = { 0 };
     char preKeys[256] = { 0 };
-
+     
     // シーン管理クラス
     Scene scene;
 
